@@ -1,0 +1,35 @@
+th.tr,td{
+    border: 1px solid;
+}
+h1,h2,h3,h4,h5 {
+    color: #7B228F;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: solid underline 1.5px ;
+}
+p{
+    text-align:justify;
+    width:600px;
+}
+span{
+    font-weight: bold;
+}
+div{
+    font-weight: italic;
+}
+ul{
+    list-style-type:none;
+}
+ol{
+    list-style-type:lower-greek;
+}
+a{
+    color:green;
+    text-decoration:none;
+    font-style:italic;
+}
+
+button{
+    font-style:normal;
+    font-weight:bold;
+    text-decoration:underline;
+}
